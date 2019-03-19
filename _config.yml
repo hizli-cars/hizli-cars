@@ -8,3 +8,6 @@ url: "http://locahost:4000" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+exclude:
+    - README.txt
