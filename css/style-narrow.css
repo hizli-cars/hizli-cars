@@ -14,10 +14,6 @@
 
 /* Section/Article */
 
-	header br {
-		display: none;
-	}
-
 	header.major {
 		padding-bottom: 1em;
 	}
